@@ -1,0 +1,122 @@
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.config
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.Development.json
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.json
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.exe
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.deps.json
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.json
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.dev.json
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.pdb
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.AssemblyReference.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfoInputs.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfo.cs
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CoreCompileInputs.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.Manifest.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.xml
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\scopedcss\bundle\RiskAssessmentMicroservice.styles.css
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.RazorTargetAssemblyInfo.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CopyComplete
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.pdb
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.genruntimeconfig.cache
+E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.exe
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.deps.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.dev.json
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfo.cs
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.xml
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\scopedcss\bundle\RiskAssessmentMicroservice.styles.css
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CopyComplete
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.pdb
+C:\Users\user\source\repos\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.genruntimeconfig.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.config
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.Development.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\appsettings.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.exe
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.deps.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.runtimeconfig.dev.json
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\RiskAssessmentMicroservice.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\log4net.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.AssemblyReference.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfoInputs.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.AssemblyInfo.cs
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CoreCompileInputs.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.Manifest.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\staticwebassets\RiskAssessmentMicroservice.StaticWebAssets.xml
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\scopedcss\bundle\RiskAssessmentMicroservice.styles.css
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.RazorTargetAssemblyInfo.cache
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.csproj.CopyComplete
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\ref\RiskAssessmentMicroservice.dll
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.pdb
+E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice\obj\Debug\net5.0\RiskAssessmentMicroservice.genruntimeconfig.cache

@@ -1,0 +1,424 @@
+2021-10-20 08:55:28,631 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 08:55:28,663 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 08:55:28,667 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 08:55:39,899 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 09:20:01,077 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 09:20:01,091 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 09:20:01,095 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 09:20:17,391 [4] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'RiskAssessmentMicroservice.Business_Logic.IRiskAssessmentServices' while attempting to activate 'RiskAssessmentMicroservice.Controllers.RiskAssessmentController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-10-20 09:21:45,394 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 09:21:45,410 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 09:21:45,413 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 09:21:52,974 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 09:22:57,686 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 09:22:57,706 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 09:22:57,710 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 09:23:06,742 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 10:00:34,193 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 10:00:34,213 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 10:00:34,217 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 10:01:45,670 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 10:01:52,148 [15] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 10:22:37,305 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 10:22:37,330 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 10:22:37,334 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 10:23:07,501 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 12:52:21,008 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 12:52:21,335 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 12:52:21,394 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:03:57,001 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:03:57,028 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:03:57,032 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:07:05,146 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:07:05,167 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:07:05,170 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:20:27,602 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:20:27,621 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:20:27,624 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:20:38,178 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Get Risk Values Called
+2021-10-20 13:32:17,213 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:32:17,232 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:32:17,235 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:32:37,783 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 13:32:37,784 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 13:32:37,811 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 13:32:38,326 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 13:32:44,025 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=103
+2021-10-20 13:32:44,025 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=103
+2021-10-20 13:32:44,025 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:32:45,433 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:42:06,800 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:42:06,836 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:42:06,847 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:42:25,543 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:43:08,962 [15] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=103
+2021-10-20 13:43:08,963 [15] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=103
+2021-10-20 13:43:08,963 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:43:09,134 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:43:09,148 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 13:45:50,433 [21] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=106
+2021-10-20 13:45:50,433 [21] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=106
+2021-10-20 13:45:50,433 [21] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:45:50,511 [21] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:48:44,607 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:48:44,704 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:48:44,727 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:48:56,768 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=106
+2021-10-20 13:48:56,769 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=106
+2021-10-20 13:48:56,798 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:48:57,101 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:48:57,301 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Details not found for loanId=106
+2021-10-20 13:50:14,231 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 13:50:14,248 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 13:50:14,253 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 13:50:23,621 [6] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=106
+2021-10-20 13:50:23,622 [6] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=106
+2021-10-20 13:50:23,643 [6] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:50:23,910 [6] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=106
+2021-10-20 13:50:24,456 [6] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-20 17:18:40,363 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 17:18:40,456 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 17:18:40,470 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 17:18:52,941 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 17:18:52,942 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 17:18:53,104 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 17:18:55,355 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 17:23:43,409 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 17:23:43,424 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 17:23:43,428 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 17:24:16,504 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 17:24:16,505 [12] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 17:24:16,527 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 17:24:17,409 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 17:30:34,224 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 17:30:34,268 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 17:30:34,305 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 17:58:01,222 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 17:58:01,276 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 17:58:01,284 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 17:59:31,879 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 17:59:31,883 [12] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 17:59:31,906 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 17:59:32,492 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:21:08,627 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 19:21:08,746 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 19:21:08,778 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 19:21:20,477 [6] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=103
+2021-10-20 19:21:20,478 [6] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=103
+2021-10-20 19:21:20,586 [6] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 19:21:21,332 [6] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 19:21:21,457 [6] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=103
+2021-10-20 19:25:01,794 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=102
+2021-10-20 19:25:01,795 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=102
+2021-10-20 19:25:01,795 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=102
+2021-10-20 19:25:01,879 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=102
+2021-10-20 19:25:11,706 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 19:25:11,706 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 19:25:11,707 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:25:11,721 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:25:20,458 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=102
+2021-10-20 19:25:20,458 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=102
+2021-10-20 19:25:20,458 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=102
+2021-10-20 19:25:20,481 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=102
+2021-10-20 19:25:24,963 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 19:25:24,963 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 19:25:24,963 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:25:24,980 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:27:08,465 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-20 19:27:08,487 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-20 19:27:08,490 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-20 19:27:19,147 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=101
+2021-10-20 19:27:19,147 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=101
+2021-10-20 19:27:19,173 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:27:19,609 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=101
+2021-10-20 19:27:28,584 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=104
+2021-10-20 19:27:28,585 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=104
+2021-10-20 19:27:28,585 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=104
+2021-10-20 19:27:28,602 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=104
+2021-10-20 19:27:28,625 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=104
+2021-10-22 21:49:48,795 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 21:49:48,931 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 21:49:48,955 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-22 21:50:07,424 [5] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-22 21:50:07,426 [5] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-22 21:50:07,996 [5] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:50:16,500 [5] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:50:17,698 [5] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:52:35,902 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 21:52:35,925 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 21:52:35,930 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-22 21:53:01,917 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-22 21:53:01,918 [10] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-22 21:53:01,943 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-22 21:53:06,731 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:53733))
+2021-10-22 21:53:41,956 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 21:53:42,014 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 21:53:42,020 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-22 21:54:17,519 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-22 21:54:17,520 [10] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-22 21:54:17,548 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-22 21:54:30,127 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-22 21:59:26,833 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-22 21:59:26,865 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-22 21:59:26,868 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\Master\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-22 21:59:44,747 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-22 21:59:44,748 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-22 21:59:44,833 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:59:46,043 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:59:46,580 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-22 21:59:59,992 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-22 21:59:59,993 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-22 21:59:59,993 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-22 22:00:00,079 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-25 09:36:02,116 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 09:36:02,481 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 09:36:02,486 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-25 10:14:03,535 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 10:14:03,598 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 10:14:03,600 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-25 22:03:35,463 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 22:03:36,454 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 22:03:36,460 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-25 22:08:34,174 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 22:08:34,214 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 22:08:34,217 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-25 22:24:47,620 [8] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-25 22:24:47,621 [8] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-25 22:24:47,866 [8] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:24:58,379 [8] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:53733))
+2021-10-25 22:25:53,616 [14] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-25 22:25:53,616 [14] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-25 22:25:53,617 [14] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:25:57,821 [14] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:53733))
+2021-10-25 22:27:03,215 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-25 22:27:03,250 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-25 22:27:03,254 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-25 22:29:53,531 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-25 22:29:53,531 [10] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-25 22:29:53,691 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:30:10,467 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:30:12,800 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:15,512 [16] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-25 22:31:15,512 [16] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-25 22:31:15,513 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:15,720 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:15,737 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:42,468 [23] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-25 22:31:42,468 [23] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-25 22:31:42,468 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:42,657 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:42,853 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-25 22:31:49,330 [23] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=203
+2021-10-25 22:31:49,330 [23] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=203
+2021-10-25 22:31:49,330 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=203
+2021-10-25 22:31:49,542 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=203
+2021-10-25 22:31:54,804 [23] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=156
+2021-10-25 22:31:54,804 [23] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=156
+2021-10-25 22:31:54,804 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=156
+2021-10-25 22:31:54,973 [23] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=156
+2021-10-25 22:31:55,198 [23] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 08:47:28,228 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 08:47:28,579 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 08:47:28,587 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 08:50:50,578 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-27 08:50:50,579 [10] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-27 08:50:50,833 [10] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 08:50:59,093 [10] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:53733))
+2021-10-27 08:52:29,296 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 08:52:29,338 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 08:52:29,347 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 08:53:19,241 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-27 08:53:19,242 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-27 08:53:19,258 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 08:53:23,022 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 08:53:24,449 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 08:53:52,046 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-27 08:53:52,047 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-27 08:53:52,047 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 08:53:53,227 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 08:53:54,344 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 08:55:03,261 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 08:55:03,281 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 08:55:03,286 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 11:15:21,712 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 11:15:21,835 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 11:15:21,840 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 11:21:53,057 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-27 11:21:53,057 [13] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-27 11:21:53,118 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 11:21:55,218 [13] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 11:21:56,816 [13] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 12:01:43,675 [18] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=204
+2021-10-27 12:01:43,703 [18] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=204
+2021-10-27 12:01:43,703 [18] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 12:01:45,041 [18] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 12:01:46,110 [18] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 12:23:37,152 [16] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=204
+2021-10-27 12:23:37,153 [16] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=204
+2021-10-27 12:23:37,153 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 12:23:38,366 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 12:23:39,433 [16] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 17:01:10,437 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 17:01:10,517 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 17:01:10,521 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 17:03:29,441 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 17:03:29,462 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 17:03:29,466 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 17:03:39,387 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-27 17:03:39,388 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-27 17:03:39,402 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 17:03:51,012 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 17:03:51,865 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-27 17:04:19,350 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-27 17:04:19,350 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-27 17:04:19,350 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-27 17:04:19,459 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-27 17:04:26,840 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=203
+2021-10-27 17:04:26,841 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=203
+2021-10-27 17:04:26,841 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=203
+2021-10-27 17:04:26,922 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=203
+2021-10-27 17:04:34,567 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=204
+2021-10-27 17:04:34,567 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=204
+2021-10-27 17:04:34,567 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 17:04:34,791 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=204
+2021-10-27 17:04:41,441 [17] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=205
+2021-10-27 17:04:41,441 [17] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=205
+2021-10-27 17:04:41,441 [17] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=205
+2021-10-27 17:04:41,484 [17] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=205
+2021-10-27 17:04:47,803 [17] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=206
+2021-10-27 17:04:47,803 [17] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=206
+2021-10-27 17:04:47,803 [17] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=206
+2021-10-27 17:04:47,889 [17] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=206
+2021-10-27 17:04:48,072 [17] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-27 17:07:04,982 [24] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-27 17:07:04,983 [24] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-27 17:07:04,983 [24] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-27 17:07:05,017 [24] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-27 18:11:10,846 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-27 18:11:10,926 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-27 18:11:10,930 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-27 18:11:20,653 [5] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=206
+2021-10-27 18:11:20,655 [5] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=206
+2021-10-27 18:11:20,744 [5] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=206
+2021-10-27 18:11:22,741 [5] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=206
+2021-10-28 13:02:35,550 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 13:02:35,761 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 13:02:35,765 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 13:03:05,288 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:03:05,289 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:03:06,715 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:03:13,675 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:03:25,170 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:53733))
+2021-10-28 13:04:13,509 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 13:04:13,544 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 13:04:13,560 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 13:04:40,470 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:04:40,470 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:04:40,986 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:04:45,923 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:04:49,425 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 13:05:53,250 [16] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=211
+2021-10-28 13:05:53,250 [16] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=211
+2021-10-28 13:05:53,250 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=211
+2021-10-28 13:05:54,463 [16] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=211
+2021-10-28 13:05:55,558 [16] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 13:07:17,302 [21] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:07:17,302 [21] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:07:17,302 [21] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:08:04,849 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 13:08:04,868 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 13:08:04,871 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 13:08:31,877 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:08:31,880 [12] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:08:31,909 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:08:40,169 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:08:44,544 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 13:09:04,497 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:09:04,498 [12] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:09:04,498 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:09:09,199 [12] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:09:11,516 [12] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 13:14:48,086 [21] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:14:48,086 [21] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:14:48,086 [21] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:14:53,994 [21] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:14:56,211 [21] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 13:17:59,308 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 13:17:59,321 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 13:17:59,324 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 13:18:15,872 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 13:18:15,873 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 13:18:15,889 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:18:28,522 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 13:18:30,902 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 22:24:14,360 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 22:24:14,535 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 22:24:14,538 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 22:32:36,766 [15] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 22:32:36,800 [15] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 22:32:37,050 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:32:58,162 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:33:00,860 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:38:55,684 [4] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-28 22:38:55,684 [4] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-28 22:38:55,684 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 22:38:57,362 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 22:38:58,943 [4] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 22:55:39,687 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-28 22:55:39,704 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-28 22:55:39,707 [1] INFO Microsoft.Hosting.Lifetime - Content root path: E:\MFPE\oct23\Collateral Loans-Risk Assessment\Collateral Loans-Risk Assessment\RiskAssessmentMicroservice\RiskAssessmentMicroservice
+2021-10-28 22:58:11,698 [9] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 22:58:11,699 [9] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 22:58:11,945 [9] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:58:16,380 [9] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:58:18,319 [9] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 22:58:40,662 [15] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-28 22:58:40,662 [15] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-28 22:58:40,662 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 22:58:42,063 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 22:58:43,794 [15] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 23:10:41,564 [18] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 23:10:41,564 [18] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 23:10:41,564 [18] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:10:44,061 [18] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:10:45,628 [18] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:11:21,850 [22] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=201
+2021-10-28 23:11:21,851 [22] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=201
+2021-10-28 23:11:21,851 [22] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:11:23,733 [22] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:11:25,013 [22] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=201
+2021-10-28 23:16:57,059 [31] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-28 23:16:57,060 [31] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-28 23:16:57,060 [31] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 23:17:06,688 [31] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 23:17:09,537 [31] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 23:17:59,373 [35] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=286
+2021-10-28 23:17:59,374 [35] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=286
+2021-10-28 23:17:59,374 [35] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=286
+2021-10-28 23:18:00,997 [35] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=286
+2021-10-28 23:18:02,391 [35] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 23:19:37,569 [40] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=286
+2021-10-28 23:19:37,570 [40] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=286
+2021-10-28 23:19:37,570 [40] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=286
+2021-10-28 23:19:39,238 [40] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=286
+2021-10-28 23:19:40,547 [40] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
+2021-10-28 23:19:52,871 [40] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - HTTPGET Method GetRiskValues Called for loanId=202
+2021-10-28 23:19:52,871 [40] INFO RiskAssessmentMicroservice.Business_Logic.RiskAssessmentServices - GetCollateralRisk under RiskAssessmentServices called for loanId=202
+2021-10-28 23:19:52,872 [40] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralCashDeposit method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 23:19:54,599 [40] INFO RiskAssessmentMicroservice.Repositories.RiskAssessmentRepository - GetCollateralRealEstate method under RiskAssessmentRepository accessed for processing loanId=202
+2021-10-28 23:19:55,934 [40] INFO RiskAssessmentMicroservice.Controllers.RiskAssessmentController - Exception Thrown:Object Not Found
